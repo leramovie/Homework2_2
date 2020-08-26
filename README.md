@@ -1,0 +1,2 @@
+# NeuroStartUp
+For Netologia homework
